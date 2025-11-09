@@ -72,3 +72,40 @@
     </div>
   </div>
 </div>
+<div class="container">
+    <div class="row">
+    <div class="col-sm-4 col-xs-12">
+      <div class="row-fluid">
+        <div class="col-md-4 col-sm-5 col-xs-5">
+          <div class="ribbon-icon"><i class="demo-icon icon-eddie-student"></i></div>
+        </div>
+        <div class="col-md-6 col-sm-7 col-xs-7">
+          <div class="stat-count">23 million<span>+</span></div>
+           Students
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <div class="row-fluid">
+        <div class="col-md-4 col-sm-5 col-xs-5">
+          <div class="ribbon-icon"><i class="demo-icon icon-eddie-district"></i></div>
+        </div>
+        <div class=" col-md-6 col-sm-7 col-xs-7">
+          <div class="stat-count">50,000<span>+</span></div>
+          Schools &amp; Districts
+      </div>
+    </div>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <div class="row-fluid">
+        <div class="col-md-4 col-sm-5 col-xs-5">
+          <div class="ribbon-icon"><i class="demo-icon icon-eddie-teacher"></i></div>
+        </div>
+        <div class="col-md-6 col-sm-7 col-xs-7">
+          <div class="stat-count">300,000<span>+</span></div>
+          Teachers
+      </div>
+    </div>
+    </div>
+  </div>
+</div>
